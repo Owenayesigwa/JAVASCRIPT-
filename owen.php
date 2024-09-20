@@ -13,7 +13,7 @@
 
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f7f6;
+            background-color: #b5b5b5;
             color: #333;
             padding: 10px;
         }
@@ -30,7 +30,7 @@
         h1 {
             text-align: center;
             margin-bottom: 20px;
-            color: #4CAF50;
+            color: #b5b5b5;
         }
 
         label {
@@ -54,7 +54,7 @@
         input[type="submit"] {
             width: 100%;
             padding: 12px;
-            background-color: #DFFF00;
+            background-color: #b5b5b5;
             color: white;
             border: none;
             border-radius: 5px;
@@ -63,14 +63,14 @@
         }
 
         input[type="submit"]:hover {
-            background-color: #45a049;
+            background-color: #b5b5b5;
         }
 
         .result {
             margin-top: 20px;
             padding: 15px;
-            background-color: #e7f5e6;
-            border-left: 5px solid #4CAF50;
+            background-color: #b5b5b5;
+            border-left: 5px solid #b5b5b5;
             border-radius: 5px;
             font-size: 18px;
         }
